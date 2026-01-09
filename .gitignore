@@ -21,7 +21,9 @@ venv/
 # Data files are intentionally versioned to allow
 # immediate cloning and execution without extra downloads.
 
-# (No data folders are ignored on purpose)
+# Note:
+# Raw data is intentionally versioned in this repository
+# to allow immediate reproducibility of the project.
 
 # ----------------------
 # Outputs / artifacts
