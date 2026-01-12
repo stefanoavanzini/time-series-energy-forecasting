@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/python-3.8%2B-blue)
+![Jupyter Notebook](https://img.shields.io/badge/notebooks-Jupyter-orange)
+
 # Time Series Forecasting – Electricity Demand
 
 This project explores hourly electricity demand forecasting using classical
