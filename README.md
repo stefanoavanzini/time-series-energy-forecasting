@@ -31,3 +31,6 @@ reasonable benchmark for more advanced approaches.
 - Non-linear models (Random Forest, Gradient Boosting)
 - Multi-step forecasting
 - Probabilistic predictions
+
+## Author
+Stefano Avanzini
