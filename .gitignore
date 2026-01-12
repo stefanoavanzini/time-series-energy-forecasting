@@ -26,13 +26,6 @@ venv/
 # to allow immediate reproducibility of the project.
 
 # ----------------------
-# Outputs / artifacts
-# ----------------------
-models/
-reports/
-figures/
-
-# ----------------------
 # OS / Editor
 # ----------------------
 .DS_Store
