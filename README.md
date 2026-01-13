@@ -12,8 +12,6 @@ time series features and machine learning models.
    ```
    git clone https://github.com/stefanoavanzini/time-series-energy-forecasting
    cd time-series-energy-forecasting
-   
-   
    ```
    
 2. (Optional but recommended) Create a virtual environment:
@@ -21,23 +19,16 @@ time series features and machine learning models.
     python -m venv venv
     source venv/bin/activate  # Linux / macOS
     venv\Scripts\activate     # Windows
-    
-    
     ```
 
 3. Install the required dependencies:
     ```
-    
     pip install -r requirements.txt
-    
-    
     ```
     
 4. Open the notebooks:
     ```
     jupyter notebook
-    
-    
     ```
     
 5. Run the notebooks in order:
